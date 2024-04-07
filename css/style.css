@@ -115,7 +115,7 @@ header {
 
 
 
-.conteudo__estudo #article__ex01{
+.conteudo__estudo #article__ex01, .conteudo__estudo #article__ex02,.conteudo__estudo #article__ex03{
   display: flex;
   margin: 2rem auto;
   padding: 2% 1%;
@@ -124,10 +124,13 @@ header {
   border: black solid 1px;
 }
 
-#article__ex01 .lista02{
+#article__ex01 .lista02, #article__ex02 .lista02.,  #article__ex03 .lista02{
   cursor: pointer;
 }
 
+.conteudo__estudo #saidaBtn{
+  
+}
 
 footer {
   display: flex;
