@@ -119,15 +119,15 @@ header {
   display: flex;
   margin: 2rem auto;
   padding: 2% 1%;
-  width: 50vw;
+  width: 50%;
   text-align: left;
   border: black solid 1px;
 }
 
-#article__ex01 .lista02, #article__ex02 .lista02.,  #article__ex03 .lista02{
+#article__ex01 .lista02, #article__ex02 .lista02,  #article__ex03 .lista02{
   cursor: pointer;
+  margin: auto;
 }
-
 .conteudo__estudo #saidaBtn{
   
 }
